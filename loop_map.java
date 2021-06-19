@@ -59,7 +59,7 @@ public class loop_map {
 
     public static void main(String[] args){
         //Run code for number1
-        // number1();
+        number1();
 
         //Run code for number2
         number2();
